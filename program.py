@@ -1,3 +1,3 @@
-value = 10
+toy = toy('A')
 print('Hello')
-print(value)
+print(toy.value)
